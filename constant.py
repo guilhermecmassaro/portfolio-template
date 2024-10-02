@@ -1,14 +1,14 @@
 info = {
-   "Pronoun": "her", 
-   "Name": "Vicky",
-   "Full_Name": "Vicky Kuo",
+   "Pronoun": "him", 
+   "Name": "Guilherme",
+   "Full_Name": "Guilherme Crivellenti Massaro",
    "Intro": "A Tech Educator and AI Enthusiast at cognitiveclass.ai",
-   "About":"Hey there, I'm Vicky! I'm passionate about leveraging data and technology to drive meaningful insights and solutions in business. Check out my free courses and projects on cognitiveclass.ai: https://cognitiveclass.ai/",
-   "Tableau":"https://public.tableau.com/app/profile/vickytc/viz/SunnybrookTeam/Overview",
-   "Medium":"https://medium.com/@vicky-note/about",
-   "City":"Toronto, Canada",
-   "Photo":"""<a href=\"https://www.linkedin.com/in/vicky-tck/\"><img src=\"https://sn-assets.s3.us.cloud-object-storage.appdomain.cloud/projects/profile.png" width=\"200\"   alt=\"Profile\" title=\"Profile\"></a>""",
-   "Email": "vicky.kuo.contact@gmail.com"
+   "About":"Hey there, I'm Guilherme! I'm passionate about leveraging data and technology to drive meaningful insights and solutions in business. Check out my free courses and projects on cognitiveclass.ai: https://cognitiveclass.ai/",
+   # "Tableau":"https://public.tableau.com/app/profile/vickytc/viz/SunnybrookTeam/Overview",
+   # "Medium":"https://medium.com/@vicky-note/about",
+   "City":"Ribeirão Preto, Brasil",
+   "Photo":"""<a href=\"https://www.linkedin.com/in/guilhermecmassaro/\"><img src=\"https://1drv.ms/b/s!ApgvMVoVyIBziql9bcSChnNihblz8A?e=g8f7Bf" width=\"200\"   alt=\"Profile\" title=\"Profile\"></a>""",
+   "Email": "guilhermecmassaro55@gmail.com"
 }
 
 embed_rss= {
